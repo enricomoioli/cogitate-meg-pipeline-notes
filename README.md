@@ -2,7 +2,7 @@
 
 Some notes on getting the Cogitate Consortium's `cogitate-msp1` MEG pipeline to run on a normal Windows machine, as part of my master's thesis (extending their IIT vs GNWT work with GED and connectivity analyses).
 
-So far I've mostly been fighting the environment and getting preprocessing to run. Below are six issues I actually hit (a couple were caught by reading the code before running it, not by trial and error). I'm keeping this as problem/fix instead of writing it up nicer, because honestly the debugging is the part worth showing.
+So far I've mostly been fighting the environment and getting preprocessing to run. Below are five issues I actually hit (a couple were caught by reading the code before running it, not by trial and error). I'm keeping this as problem/fix instead of writing it up nicer, because honestly the debugging is the part worth showing.
 
 The environment file I ended up with is in this repo: `requirements_cogitate_meg.yml`.
 
